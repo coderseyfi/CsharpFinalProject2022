@@ -1,0 +1,16 @@
+D:\CsharpFinalProject\TurboAz-Final-Project\bin\Debug\net5.0\TurboAz-Final-Project.exe
+D:\CsharpFinalProject\TurboAz-Final-Project\bin\Debug\net5.0\TurboAz-Final-Project.deps.json
+D:\CsharpFinalProject\TurboAz-Final-Project\bin\Debug\net5.0\TurboAz-Final-Project.runtimeconfig.json
+D:\CsharpFinalProject\TurboAz-Final-Project\bin\Debug\net5.0\TurboAz-Final-Project.runtimeconfig.dev.json
+D:\CsharpFinalProject\TurboAz-Final-Project\bin\Debug\net5.0\TurboAz-Final-Project.dll
+D:\CsharpFinalProject\TurboAz-Final-Project\bin\Debug\net5.0\ref\TurboAz-Final-Project.dll
+D:\CsharpFinalProject\TurboAz-Final-Project\bin\Debug\net5.0\TurboAz-Final-Project.pdb
+D:\CsharpFinalProject\TurboAz-Final-Project\obj\Debug\net5.0\TurboAz-Final-Project.csproj.AssemblyReference.cache
+D:\CsharpFinalProject\TurboAz-Final-Project\obj\Debug\net5.0\TurboAz-Final-Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\CsharpFinalProject\TurboAz-Final-Project\obj\Debug\net5.0\TurboAz-Final-Project.AssemblyInfoInputs.cache
+D:\CsharpFinalProject\TurboAz-Final-Project\obj\Debug\net5.0\TurboAz-Final-Project.AssemblyInfo.cs
+D:\CsharpFinalProject\TurboAz-Final-Project\obj\Debug\net5.0\TurboAz-Final-Project.csproj.CoreCompileInputs.cache
+D:\CsharpFinalProject\TurboAz-Final-Project\obj\Debug\net5.0\TurboAz-Final-Project.dll
+D:\CsharpFinalProject\TurboAz-Final-Project\obj\Debug\net5.0\ref\TurboAz-Final-Project.dll
+D:\CsharpFinalProject\TurboAz-Final-Project\obj\Debug\net5.0\TurboAz-Final-Project.pdb
+D:\CsharpFinalProject\TurboAz-Final-Project\obj\Debug\net5.0\TurboAz-Final-Project.genruntimeconfig.cache

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TurboAz-Final-Project", "TurboAz-Final-Project\TurboAz-Final-Project.csproj", "{9233F83D-7B31-4DD1-9FF8-313875D63EC4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9233F83D-7B31-4DD1-9FF8-313875D63EC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9233F83D-7B31-4DD1-9FF8-313875D63EC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9233F83D-7B31-4DD1-9FF8-313875D63EC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9233F83D-7B31-4DD1-9FF8-313875D63EC4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {99F00125-8F4D-4D5F-9DDE-943B80FCB9B3}
+	EndGlobalSection
+EndGlobal
