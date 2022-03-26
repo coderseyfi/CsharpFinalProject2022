@@ -1,7 +1,9 @@
 ﻿using System;
+using System.Globalization;
 using System.Linq;
 using System.Reflection.Emit;
 using System.Text;
+using System.Threading;
 using TurboAz_Final_Project.Infrastructure;
 using TurboAz_Final_Project.Managers;
 
@@ -27,6 +29,12 @@ namespace TurboAz_Final_Project
             MarkaManager markaMgr = new MarkaManager();
             ModelManager modelMgr = new ModelManager();
 
+            CultureInfo c2 = new CultureInfo("en-US");
+            c2.NumberFormat.CurrencyDecimalSeparator = ".";
+            c2.NumberFormat.NumberDecimalSeparator = ".";
+
+            Thread.CurrentThread.CurrentCulture = c2;
+            Thread.CurrentThread.CurrentUICulture = c2;
 
 
 
